@@ -12,3 +12,5 @@ This is new feature-4
 new feature-5
 new feature-6
 
+new feature-7
+new feature-8
