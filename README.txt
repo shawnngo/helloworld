@@ -5,3 +5,4 @@ main-branch-2
 main-branch-3
 
 leaf-branch-1
+leaf-branch-2
