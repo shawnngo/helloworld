@@ -14,3 +14,6 @@ new feature-6
 
 new feature-7
 new feature-8
+
+merged branch-1
+
