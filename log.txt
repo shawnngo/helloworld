@@ -7,4 +7,5 @@ log-4
 log-5
 log-6
 
-master-2
+master-log-1
+master-log-2
