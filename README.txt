@@ -10,9 +10,9 @@ leaf-branch-2
 rebase-1
 rebase-2
 
-<<<<<<< HEAD
+
 master-1
 master-2
-=======
+
 test-rebase-1
->>>>>>> test-rebase
+
