@@ -7,5 +7,10 @@ log-4
 log-5
 log-6
 
+
 master-log-1
 master-log-2
+
+log-test-rebase-1
+log-test-rebase-2
+
