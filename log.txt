@@ -6,3 +6,5 @@ log-4
 
 log-5
 log-6
+
+log-test-rebase-1
