@@ -2,5 +2,4 @@
 
 This is green feature log.
 editted on remote repository
-editted on remote repo for master branch
-step 1: editted remote repo
+step 1: editted remote repo in green-feature branch
