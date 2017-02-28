@@ -3,4 +3,5 @@
 This is green feature log.
 editted on remote repo for master branch
 step 1: editted remote repo
-step 2: edit on master - remote repo
+step 2: edit on master - remote rep
+step 3: hehe, just test commit --amend
