@@ -5,3 +5,4 @@ editted on remote repo for master branch
 step 1: editted remote repo
 step 2: edit on master - remote rep
 step 3: hehe, just test commit --amend
+step 4: hoho, test git status --short
