@@ -8,3 +8,4 @@ step 3: hehe, just test commit --amend
 step 4: hoho, test git status --short
 step 5: huhu, test merge - (test-branch)
 step 6: master-branch rebase server client 1
+step 7: master-branch rebase server client 2
