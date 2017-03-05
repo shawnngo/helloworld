@@ -12,3 +12,4 @@ step 7: master-branch rebase server client 2
 step 8: C2
 step 9: C3
 step 10: Git stash testing
+step 11: Test 1
