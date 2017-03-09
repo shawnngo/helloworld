@@ -16,3 +16,4 @@ step 11: Test 1
 step 12: Test 2
 step 13: Test 3
 step 14: Test 4
+step 15: test rebase conflict
