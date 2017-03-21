@@ -23,3 +23,4 @@ step 17.1: forget to add this change to last git commit
 step 18: test rebase interactive 1
 step 19: test rebase interactive 2
 step 20: test rebase interactive 3
+step 21: test rebase -i 1
