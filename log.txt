@@ -20,3 +20,6 @@ step 15: test rebase conflict
 step 16: test rebase conflict 2
 step 17: test git ammend 1
 step 17.1: forget to add this change to last git commit
+step 18: test rebase interactive 1
+step 19: test rebase interactive 2
+step 20: test rebase interactive 3
