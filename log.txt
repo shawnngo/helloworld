@@ -24,3 +24,5 @@ step 18: test rebase interactive 1
 step 19: test rebase interactive 2
 step 20: test rebase interactive 3
 step 21: test rebase -i 1
+step 22: test rebase -i 2
+step 23: test rebase -i 3
