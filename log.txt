@@ -32,3 +32,5 @@ step 26: rebase 3
 step 27: rebase reorder 1
 step 28: rebase reorder 2
 step 29: rebase reorder 3
+step 30: reorder 1
+step 31: reorder 2
