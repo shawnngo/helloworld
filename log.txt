@@ -34,3 +34,4 @@ step 28: rebase reorder 2
 step 29: rebase reorder 3
 step 30: reorder 1
 step 31: reorder 2
+step 32: one
