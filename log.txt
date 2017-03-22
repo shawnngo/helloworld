@@ -38,3 +38,6 @@ step 32: one
 step 33: two
 step 33: three
 step 24: 1
+step 25: squash 1
+step 26: squash 2
+step 27: squash 3
