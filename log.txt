@@ -44,3 +44,7 @@ step 27: squash 3
 step 28: unsplit 1
 step 29: unsplit 2
 step 30: unsplit 3
+step 31.2: squash on rebase-test branch
+step 31: test squash merge master 1
+step 32: test squash merge master 2
+step 33: squash on rebase-test branch 2
